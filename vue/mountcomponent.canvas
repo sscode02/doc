@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"mountcomponent\n","id":"c251c64b3616da5c","x":-480,"y":-80,"width":200,"height":60},
+		{"type":"text","text":"1.创建instance\ncreateComponentInstance","id":"4912543605b551da","x":-180,"y":-220,"width":250,"height":80},
+		{"type":"text","text":"2.加工instance  -> setupComponent\n\n\t2.1 把props和children绑定到instance\n\t\n\t2.2 代理instance.ctx \n\t\tinstance.proxy = new Proxy(instance.ctx, PublicInstanceProxyHandlers);\n\n\t2.3 调用setup\n\t\t这里 会把instance.pros 和 setupcontext 作为参数传递带setup\n\t\tsetup(shallowReadonly(instance.props), setupContext);\n\n\t\t处理 setupResult \n\t\t\t如果setupresult 是一个function 绑定到instance.render上\n\t\t\t如果是object 则使用proxy 进行代理 这样用户就可以在直接在 component中使用该值 不用.value \n\t\t\t并且把该object 绑定到 setupState 上\n\n\t\t判断instace有没有render 如果没有就需要把template 转成render函数 这里就是 runtime 模块和 compile 模块结合点\n\t\t\tconst template = Component.template;\n\t\t\tComponent.render = compile(template);\n\t\t\tinstance.render = Component.render\n\n\n\n\t\t","id":"c91d8098b0000794","x":-180,"y":-50,"width":920,"height":610},
+		{"type":"text","text":"3.执行副作用逻辑 ->setupRenderEffect(instance, initialVNode, container);\n\n\t3.1 创建一个副作用函数,然后判断是否是第一次mount\n\tif (!instance.isMounted) {\n\t\t1.会把instance.proxy绑定到render函数上 在render中可以通过this来获取instance中的值, 并且调用render函数\n\t\t const subTree = instance.render.call(proxyToUse, proxyToUse)\n\n\t\t2.递归调用 patch  subTree\n\t\n\t}else{\n\t\n\t}\n","id":"2f3a2bf4fb048d8e","x":-180,"y":600,"width":920,"height":600}
+	],
+	"edges":[]
+}

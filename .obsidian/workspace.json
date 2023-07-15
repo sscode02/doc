@@ -14,144 +14,8 @@
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "adbda04c9f9bc248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/prototype 和 __proto__的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9cf79fe6c6c1aaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/行为委托.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8b19d51866a787fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/行为委托.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "278919fe521d581c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/prototype 和 __proto__的区别.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c47c12248bc750dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css/BFC(block formatting context).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "639facd1c99c46e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "css/BFC(block formatting context).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d6e5221332e718",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/构造函数的继承方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12207c7aa329bba5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "vue/mountcomponent.canvas",
-                "viewState": {
-                  "x": 87.41158498557935,
-                  "y": 714.9143932070599,
-                  "zoom": -0.20650098796337601
-                }
-              }
-            }
-          },
-          {
-            "id": "5a0f54f07654a3b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/class.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a784a5d5471b3c8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "javascript/构造函数的继承方式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e864a9a734a421dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vue/vue 原理.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "vue/vue 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "vue/vue 原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "vue/vue 原理.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -278,26 +138,29 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e864a9a734a421dd",
+  "active": "fb6c2d75fb02846b",
   "lastOpenFiles": [
+    "gitignore.md",
+    "未命名.md",
+    "未命名文件夹",
+    "vue/vue 原理.md",
     "vue/reactiveity.md",
     "vue/mountcomponent.canvas",
-    "javascript/构造函数的继承方式.md",
-    "javascript/class.md",
-    "javascript/new 会进行哪些步骤.md",
-    "vue/vue 原理.md",
     "vue",
-    "javascript/prototype 和 __proto__的区别.md",
     "javascript/行为委托.md",
+    "javascript/构造函数的继承方式.md",
     "javascript/var let const.md",
+    "javascript/prototype 和 __proto__的区别.md",
+    "javascript/new 会进行哪些步骤.md",
+    "javascript/class.md",
     "javascript",
     "idea.md",
     "css/position.md",
     "css/BFC(block formatting context).md",
     "css",
+    "README.md",
     "asd.md",
     "1",
-    "未命名文件夹",
     "笔记/未命名.md",
     "笔记",
     "nn.md",

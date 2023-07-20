@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "2e0b27fc6da61768",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5a5e7f7253110c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6c2d75fb02846b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/reactiveEffact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e81820d9efc8e4ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vite/vite功能.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08519b3a61881618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "webpack.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f607b41f6e738ea6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/computed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a684a284884d57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vue/reactiveEffact.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4fbc7f1c392e6f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "fccc3918666878c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c3b3ecabea5b34",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a56fc25e2c60bda7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "24ece2bf1a197743",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "right": {
+    "id": "8fdf9e4aa9b46327",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb74d7f0b9deed4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0abc5533fcf6975d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "vue/reactiveEffact.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb75a9d7096dcfe0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "vue/reactiveEffact.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc71bc9c721ca398",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be167e923d1e09c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "vue/reactiveEffact.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "fb6c2d75fb02846b",
+  "lastOpenFiles": [
+    "vue/vue 原理.md",
+    "vue/computed.md",
+    "vue/mountcomponent.canvas",
+    "vue/reactiveEffact.md",
+    "vue/reactiveity.md",
+    "webpack.md",
+    "vite/vite功能.md",
+    "vite",
+    "idea.md",
+    "gitignore.md",
+    "未命名文件夹",
+    "vue",
+    "javascript/行为委托.md",
+    "javascript/构造函数的继承方式.md",
+    "javascript/var let const.md",
+    "javascript/prototype 和 __proto__的区别.md",
+    "javascript/new 会进行哪些步骤.md",
+    "javascript/class.md",
+    "javascript",
+    "css/position.md",
+    "css/BFC(block formatting context).md",
+    "css",
+    "README.md",
+    "asd.md",
+    "1",
+    "笔记/未命名.md",
+    "笔记",
+    "nn.md",
+    "2023-07-07.md"
+  ]
+}
